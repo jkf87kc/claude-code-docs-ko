@@ -14,7 +14,7 @@ export default defineConfig({
   ],
 
   sitemap: {
-    hostname: 'https://jkf87.github.io/claude-code-docs-ko/',
+    hostname: 'https://jkf87kc.github.io/claude-code-docs-ko/',
   },
 
   themeConfig: {
@@ -197,7 +197,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/jkf87/claude-code-docs-ko' },
+      { icon: 'github', link: 'https://github.com/jkf87kc/claude-code-docs-ko' },
     ],
 
     outline: { label: '목차', level: [2, 3] },

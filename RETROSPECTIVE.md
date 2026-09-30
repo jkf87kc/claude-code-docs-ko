@@ -1,8 +1,8 @@
 # 작업 회고록: Claude Code 한국어 문서 번역 프로젝트
 
 > **프로젝트**: https://code.claude.com/docs/ 전체 문서 한국어 번역
-> **결과물**: https://jkf87.github.io/claude-code-docs-ko/
-> **저장소**: [jkf87/claude-code-docs-ko](https://github.com/jkf87/claude-code-docs-ko)
+> **결과물**: https://jkf87kc.github.io/claude-code-docs-ko/
+> **저장소**: [jkf87kc/claude-code-docs-ko](https://github.com/jkf87kc/claude-code-docs-ko)
 > **기간**: 2026-04-14 ~ 2026-04-15 (약 24시간)
 > **작성일**: 2026-04-15
 
